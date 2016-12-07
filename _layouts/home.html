@@ -8,7 +8,7 @@
   <body>
     <section class="container">
       <div class="jumbotron">
-              <h1>Studentenpojekt Übung 10</h1>
+              <a href="/hsr-pmqm-project/"><h1>Studentenpojekt Übung 10</h1></a>
       </div>
       <div class="row">
         <div class="col-xs-12">
@@ -17,7 +17,7 @@
           {% assign pages = site.pages | sort: 'date'  %}
           {% for page in pages %}
             {% if page.title != null %}
-            <li class="list-group-item"><a href="{{ page.url }}">{{ page.title }}</a></li>
+            <li class="list-group-item"><a href="/hsr-pmqm-project{{ page.url }}">{{ page.title }}</a></li>
             {% endif %}
           {% endfor %}
         </ul>

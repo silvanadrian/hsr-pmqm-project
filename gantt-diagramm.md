@@ -14,4 +14,4 @@ Es sind im ganzen 8 Phasen geplant und am Ende jeder Phase gibt es einen Meilens
 ## Diagramm
 
 
-<img class="img-fluid" src="/assets/Gantt-Diagramm.png" alt="Gantt Diagramm">
+<img class="img-fluid" src="/hsr-pmqm-project/assets/Gantt-Diagramm.png" alt="Gantt Diagramm">
